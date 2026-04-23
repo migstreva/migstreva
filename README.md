@@ -18,14 +18,14 @@ I’m building a strong foundation in backend development and software engineeri
 
 ## 🧭 About Me
 - Passionate about **technology, aviation, finance, and music**  
-- Into **traveling** and exploring new places (visited **UK, US, Chile, Uruguay**)  
+- Into **traveling** and exploring new places
 - I enjoy working out, learning about American culture, and playing the **guitar**  
 - Always improving discipline, habits, and long-term focus, personally and professionally
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, SQL  
+**Languages:** Java, Python, SQL
 **Frameworks:** Spring Boot
 **Tools:** Jenkins, Maven, Docker (learning), Git/GitHub  
 **Databases:** PostgreSQL  
