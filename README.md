@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Miguel Streva
 
-### 💻 Computer Engineering Student @ Inatel (Class of 2027)  
+### 💻 Computer Engineering Student @ Inatel  
 Backend-focused • Java & Spring Boot • PostgreSQL • CI/CD • Cloud Fundamentals
 
 I’m building a strong foundation in backend development and software engineering practices, especially around **Java, Spring Boot, database design, and deployment pipelines**. I enjoy creating clean, reliable systems and learning technologies that help me think like an engineer, not just a coder.
